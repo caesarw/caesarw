@@ -6,7 +6,7 @@
 
 **:pushpin: Profile overview:**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caesarw&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caesarw&theme=nord_dark)
 
 <!--
 **caesarw/caesarw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
 - 💜 Love open source
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,go,python,rust,java,javascript,typescript,haskell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,go,python,rust,java,kotlin,javascript,typescript,haskell)](https://skillicons.dev)
 
 **:pushpin: Profile overview:**
 
